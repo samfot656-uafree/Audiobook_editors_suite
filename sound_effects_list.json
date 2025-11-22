@@ -1,0 +1,44 @@
+{
+  "sound_effects": {
+    "S01": {
+      "description": "чоловічий видих полегшення",
+      "file_path": ""
+    },
+    "S02": {
+      "description": "приємна китайська мелодія в кімнаті",
+      "file_path": ""
+    },
+    "S03": {
+      "description": "важке засмучене позіхання",
+      "file_path": ""
+    },
+    "S04": {
+      "description": "злобне гмикання",
+      "file_path": ""
+    },
+    "S05": {
+      "description": "коваль кує",
+      "file_path": ""
+    },
+    "S06": {
+      "description": "захоплене ревіння натовпу та шквал оплесків",
+      "file_path": ""
+    },
+    "S07": {
+      "description": "гомін натовпу на вулиці",
+      "file_path": ""
+    },
+    "S08": {
+      "description": "смартфон впав на підлогу.",
+      "file_path": ""
+    },
+    "S09": {
+      "description": "важке чоловіче дихання після бігу",
+      "file_path": ""
+    },
+    "S10": {
+      "description": "вибух гранати здалеку",
+      "file_path": ""
+    }
+  }
+}

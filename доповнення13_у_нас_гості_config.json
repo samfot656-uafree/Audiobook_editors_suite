@@ -1,0 +1,98 @@
+{
+  "COMMON_CONFIG_VERSION": "0_0_0_3",
+  "COMMON_TEXT_WIDGET_FONT_SIZE": 56,
+  "COMMON_BBTN_FONT_SIZE": 38,
+  "COMMON_BBTN_HEIGHT": 120,
+  "COMMON_ACCENT_CHAR": "́",
+  "COMMON_INPUT_TEXT_FILE": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/book_text_file/доповнення13_у_нас_гості.txt",
+  "COMMON_OUTPUT_FOLDER": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/outputs",
+  "COMMON_TEMP_FOLDER": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/temp_folder",
+  "COMMON_VOICE_DICT": {
+    "G1": "Розповідач",
+    "G2": "Чоловік1",
+    "G3": "Чоловік2",
+    "G4": "Жінка1",
+    "G5": "Жінка2",
+    "G6": "Хлопець",
+    "G7": "Дівчина",
+    "G8": "Думки чол",
+    "G9": "Думки жін"
+  },
+  "COMMON_PAUSE_DICT": {
+    "P4": "PAUSE_4",
+    "P7": "PAUSE_7",
+    "P1": "PAUSE_1",
+    "P2": "PAUSE_2"
+  },
+  "ACCENT_EDITOR_ACCENTS_FILE": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/json/accents_files.json",
+  "ACCENT_EDITOR_OUTPUT_MP3_FOLDER": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/outputs/output_mp3",
+  "ACCENT_EDITOR_TTS_MODE": "gTTS",
+  "ACCENT_EDITOR_DO_SPLIT": false,
+  "ACCENT_EDITOR_BOOKMARK": {
+    "cursor": 0,
+    "scroll": 0.0,
+    "paragraph_index": 0
+  },
+  "VOICE_TAGS_EDITOR_PAUSE_4_MP3": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_4.mp3",
+  "VOICE_TAGS_EDITOR_PAUSE_7_MP3": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_7.mp3",
+  "VOICE_TAGS_EDITOR_PAUSE_1_MP3": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_1.mp3",
+  "VOICE_TAGS_EDITOR_PAUSE_2_MP3": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_2.mp3",
+  "VOICE_TAGS_EDITOR_PAUSE_4_WAV": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_4.wav",
+  "VOICE_TAGS_EDITOR_PAUSE_7_WAV": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_7.wav",
+  "VOICE_TAGS_EDITOR_PAUSE_1_WAV": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_1.wav",
+  "VOICE_TAGS_EDITOR_PAUSE_2_WAV": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_2.wav",
+  "VOICE_TAGS_EDITOR_MELODY_START_MP3": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/MELODY_START.mp3",
+  "VOICE_TAGS_EDITOR_MELODY_END_MP3": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/MELODY_END.mp3",
+  "VOICE_TAGS_EDITOR_MELODY_START_WAV": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/MELODY_START.wav",
+  "VOICE_TAGS_EDITOR_MELODY_END_WAV": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/MELODY_END.wav",
+  "VOICE_TAGS_EDITOR_TEST_WAV": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/TEST.wav",
+  "VOICE_TAGS_EDITOR_BOOKMARK": {
+    "cursor": 0,
+    "scroll": 0.0,
+    "paragraph_index": 0
+  },
+  "SOUND_EFFECTS_EDITOR_SOUND_DICT": {
+    "S01": "Звук_пострілу",
+    "S02": "Машина_гальмує",
+    "S03": "Гарчання_мутанта"
+  },
+  "SOUND_EFFECTS_EDITOR_SOUNDS_EFFECTS_LIST": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/json/sound_effects_list.json",
+  "SOUND_EFFECTS_EDITOR_SOUNDS_EFFECTS_FILES": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/json/sound_effects_files.json",
+  "SOUND_EFFECTS_EDITOR_SOUNDS_EFFECTS_INPUT_FOLDER": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_sounds_effects",
+  "SOUND_EFFECTS_EDITOR_BOOKMARK": {
+    "cursor": 0,
+    "scroll": 0.0,
+    "paragraph_index": 0
+  },
+  "MULTISPEAKER_TTS_PAUSE_4_MP3": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_4.mp3",
+  "MULTISPEAKER_TTS_PAUSE_7_MP3": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_7.mp3",
+  "MULTISPEAKER_TTS_PAUSE_1_MP3": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_1.mp3",
+  "MULTISPEAKER_TTS_PAUSE_2_MP3": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_2.mp3",
+  "MULTISPEAKER_TTS_PAUSE_4_WAV": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_4.wav",
+  "MULTISPEAKER_TTS_PAUSE_7_WAV": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_7.wav",
+  "MULTISPEAKER_TTS_PAUSE_1_WAV": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_1.wav",
+  "MULTISPEAKER_TTS_PAUSE_2_WAV": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/PAUSE_2.wav",
+  "MULTISPEAKER_TTS_MELODY_START_MP3": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/MELODY_START.mp3",
+  "MULTISPEAKER_TTS_MELODY_END_MP3": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/MELODY_END.mp3",
+  "MULTISPEAKER_TTS_MELODY_START_WAV": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/MELODY_START.wav",
+  "MULTISPEAKER_TTS_MELODY_END_WAV": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/MELODY_END.wav",
+  "MULTISPEAKER_TTS_TEST_WAV": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu/TEST.wav",
+  "MULTISPEAKER_TTS_INPUT_SOUNDS_FOLDER": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/inputs/input_melodu",
+  "MULTISPEAKER_TTS_OUTPUTS_FOLDER": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/outputs/output_multispeakers",
+  "MULTISPEAKER_TTS_FRAGMENT_SOFT_LIMIT": 900,
+  "MULTISPEAKER_TTS_FRAGMENT_HARD_LIMIT": 1000,
+  "MULTISPEAKER_TTS_DO_SPLIT": true,
+  "MULTISPEAKER_TTS_DO_MERGE": false,
+  "MULTISPEAKER_TTS_TTS_MODE": "gTTS",
+  "MULTISPEAKER_TTS_SOUND_DICT": {
+    "S01": "Звук_пострілу",
+    "S02": "Машина_гальмує",
+    "S03": "Гарчання_мутанта"
+  },
+  "MULTISPEAKER_TTS_SOUNDS_EFFECTS_LIST": "/storage/emulated/0/book_projects/доповнення13_у_нас_гості/json/sound_effects_list.json",
+  "MULTISPEAKER_TTS_BOOKMARK": {
+    "cursor": 0,
+    "scroll": 0.0,
+    "paragraph_index": 0
+  }
+}
